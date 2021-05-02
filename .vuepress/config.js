@@ -1,7 +1,7 @@
 module.exports = {
   "title": "Young Web",
   "description": "www",
-  "dest": "public",
+  "dest": "root",
   "head": [
     [
       "link",
