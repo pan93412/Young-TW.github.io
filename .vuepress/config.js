@@ -1,8 +1,8 @@
 module.exports = {
   "title": "Young Web",
-  "description": "www",
-  "dest": "root",
-  "base":"/Young-Web/docs/",
+  "description": "Young's website",
+  "dest": "build",
+  "base": "/",
   "head": [
     [
       "link",
@@ -17,10 +17,46 @@ module.exports = {
         "name": "viewport",
         "content": "width=device-width,initial-scale=1,user-scalable=no"
       }
+    ],
+    [
+      "meta",
+      {
+        "property": "og:title",
+        "content": "Young web"
+      }
+    ],
+    [
+      "meta",
+      {
+        "property": "og:url",
+        "content": "https://Young-TW.github.io/public"
+      }
+    ],
+    [
+      "meta",
+      {
+        "property": "og:image",
+        "content": "https://cdn.discordapp.com/avatars/458988300418416640/31d2892e691d2c983dc6851d8a94472d.png?size=4096"
+      }
+    ],
+    [
+      "meta",
+      {
+        "property": "og:description",
+        "content": "Young web"
+      }
+    ],
+    [
+      "meta",
+      {
+        "property": "og:site_name",
+        "content": "Young web"
+      }
     ]
   ],
   "theme": "reco",
   "themeConfig": {
+    "noFoundPageByTencent": false,
     "nav": [
       {
         "text": "Home",
@@ -33,7 +69,7 @@ module.exports = {
         "icon": "reco-date"
       },
       {
-        "text": "Contact",
+        "text": "Github",
         "icon": "reco-message",
         "items": [
           {
@@ -44,14 +80,6 @@ module.exports = {
         ]
       }
     ],
-    "sidebar": {
-      "/docs/theme-reco/": [
-        "",
-        "theme",
-        "plugin",
-        "api"
-      ]
-    },
     "type": "blog",
     "blogConfig": {
       "category": {
@@ -65,26 +93,26 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "午后南杂",
-        "desc": "Enjoy when you can, and endure when you must.",
-        "email": "1156743527@qq.com",
-        "link": "https://www.recoluan.com"
+        "title": "Github",
+        "desc": "My Github URL",
+        "email": "young20050727@gmail.com",
+        "link": "https://github.com/Young-TW"
       },
       {
         "title": "NTIHS-club",
-        "desc": "台南高工 社團",
+        "desc": "台南高工 社團網站",
         "avatar": "https://cdn.discordapp.com/avatars/434364344424464385/8697da40fb26dcd4b2455c2fdc00d719.png?size=4096",
-        "link": "https://github.com/Young-TW/PTIVS-club"
+        "link": "https://ntihs-it.github.io/"
       }
     ],
     "logo": "/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "young",
+    "author": "Young",
     "authorAvatar": "https://cdn.discordapp.com/avatars/434364344424464385/8697da40fb26dcd4b2455c2fdc00d719.png?size=4096",
     "record": "xxxx",
-    "startYear": "2017"
+    "startYear": "2021"
   },
   "markdown": {
     "lineNumbers": true
