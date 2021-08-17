@@ -2,13 +2,13 @@ module.exports = {
   "title": "Young Web",
   "description": "www",
   "dest": "root",
-  "base":"/Young-Web/root/",
+  "base":"/Young-Web/docs/",
   "head": [
     [
       "link",
       {
         "rel": "icon",
-        "href": "/favicon.ico"
+        "href": "./public/rou.jpg"
       }
     ],
     [
@@ -71,8 +71,8 @@ module.exports = {
         "link": "https://www.recoluan.com"
       },
       {
-        "title": "PTIVS-club",
-        "desc": "社團課",
+        "title": "NTIHS-club",
+        "desc": "台南高工 社團",
         "avatar": "https://cdn.discordapp.com/avatars/434364344424464385/8697da40fb26dcd4b2455c2fdc00d719.png?size=4096",
         "link": "https://github.com/Young-TW/PTIVS-club"
       }
