@@ -31,10 +31,10 @@ jobs:
       run: |
         cd ./build
         git init
-        git config --global user.email aijdfajodwsdf@gmail.com
-        git config --global user.name xiaoxigua-1
+        git config --global user.email young20050727@gmail.com
+        git config --global user.name Young-TW
         git status
-        git remote add origin https://${{secrets.GG}}@github.com/xiaoxigua-1/xiaoxigua-1.github.io.git
+        git remote add origin https://${{secrets.GG}}@github.com/Young-TW/Young-TW.github.io.git
         git checkout -b gh-pages-1
         git add --all
         git commit -m "update"
