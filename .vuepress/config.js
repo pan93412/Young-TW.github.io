@@ -36,7 +36,7 @@ module.exports = {
       "meta",
       {
         "property": "og:image",
-        "content": "https://cdn.discordapp.com/avatars/458988300418416640/31d2892e691d2c983dc6851d8a94472d.png?size=4096"
+        "content": ""
       }
     ],
     [
@@ -70,7 +70,7 @@ module.exports = {
       },
       {
         "text": "Github",
-        "icon": "reco-message",
+        "icon": "reco-github",
         "items": [
           {
             "text": "GitHub",
@@ -105,12 +105,12 @@ module.exports = {
         "link": "https://ntihs-it.github.io/"
       }
     ],
-    "logo": "/logo.png",
+    "logo": "/rou-square.jpg",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "Young",
-    "authorAvatar": "https://cdn.discordapp.com/avatars/434364344424464385/8697da40fb26dcd4b2455c2fdc00d719.png?size=4096",
+    "authorAvatar": "/rou-square.jpg",
     "record": "xxxx",
     "startYear": "2021"
   },
