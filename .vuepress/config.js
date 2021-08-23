@@ -78,6 +78,11 @@ module.exports = {
             "icon": "reco-github"
           }
         ]
+      },
+      {
+        "text": "Facebook",
+        "link": "https://www.facebook.com/young20050727",
+        "icon": "reco-facebook"
       }
     ],
     "type": "blog",
@@ -100,8 +105,8 @@ module.exports = {
       },
       {
         "title": "NTIHS-club",
-        "desc": "台南高工 社團網站",
-        "avatar": "https://cdn.discordapp.com/avatars/434364344424464385/8697da40fb26dcd4b2455c2fdc00d719.png?size=4096",
+        "desc": "NTIHS club website",
+        "avatar": "/NTIHS-logo.png",
         "link": "https://ntihs-it.github.io/"
       }
     ],
