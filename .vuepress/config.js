@@ -1,6 +1,6 @@
 module.exports = {
   "title": "Young Web",
-  "description": "Young's website",
+  "description": "Young's website, build on vuepress-reco",
   "dest": "build",
   "base": "/",
   "head": [
@@ -8,7 +8,7 @@ module.exports = {
       "link",
       {
         "rel": "icon",
-        "href": "./public/rou.jpg"
+        "href": "/rou-square.jpg"
       }
     ],
     [
@@ -36,14 +36,14 @@ module.exports = {
       "meta",
       {
         "property": "og:image",
-        "content": ""
+        "content": "/rou-square.jpg"
       }
     ],
     [
       "meta",
       {
         "property": "og:description",
-        "content": "Young web"
+        "content": "Young's website, build on vuepress-reco"
       }
     ],
     [
