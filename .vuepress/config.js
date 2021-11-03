@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "Young Web",
+  "title": "Young's blog",
   "description": "Young's blog, build on vuepress-reco",
   "dest": "build",
   "base": "/",

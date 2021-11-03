@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Young Web
+heroText: Young's blog
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
