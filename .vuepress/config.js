@@ -1,6 +1,6 @@
 module.exports = {
   "title": "Young Web",
-  "description": "Young's website, build on vuepress-reco",
+  "description": "Young's blog, build on vuepress-reco",
   "dest": "build",
   "base": "/",
   "head": [
@@ -8,7 +8,7 @@ module.exports = {
       "link",
       {
         "rel": "icon",
-        "href": "/rou-square.jpg"
+        "href": "/Young.jpg"
       }
     ],
     [
@@ -22,7 +22,7 @@ module.exports = {
       "meta",
       {
         "property": "og:title",
-        "content": "Young web"
+        "content": "Young's blog"
       }
     ],
     [
@@ -36,21 +36,21 @@ module.exports = {
       "meta",
       {
         "property": "og:image",
-        "content": "/rou-square.jpg"
+        "content": "/Young.jpg"
       }
     ],
     [
       "meta",
       {
         "property": "og:description",
-        "content": "Young's website, build on vuepress-reco"
+        "content": "Young's blog, build on vuepress-reco"
       }
     ],
     [
       "meta",
       {
         "property": "og:site_name",
-        "content": "Young web"
+        "content": "Young's blog"
       }
     ]
   ],
