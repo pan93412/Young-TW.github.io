@@ -110,12 +110,12 @@ module.exports = {
         "link": "https://ntihs-it.github.io/"
       }
     ],
-    "logo": "/rou-square.jpg",
+    "logo": "/Young.jpg",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "Young",
-    "authorAvatar": "/rou-square.jpg",
+    "authorAvatar": "/Young.jpg",
     "record": "xxxx",
     "startYear": "2021"
   },
