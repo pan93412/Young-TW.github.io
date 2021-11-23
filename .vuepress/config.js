@@ -1,6 +1,6 @@
 module.exports = {
   "title": "Young's blog",
-  "description": "Young's blog, build on vuepress-reco",
+  "description": "嗨～這裡是我的Blog，我會在這邊紀錄我的生活，只要我還在就會不定期更新。",
   "dest": "build",
   "base": "/",
   "head": [
