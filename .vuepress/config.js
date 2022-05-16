@@ -1,6 +1,6 @@
 module.exports = {
   "title": "Young's blog",
-  "description": "嗨～這裡是我的Blog，我會在這邊紀錄我的生活，只要我還在就會不定期更新。",
+  "description": "嗨～這裡是我的Blog，我會把生活中的紀錄放在這，或許還可以找到一些我平常不會告訴別人的事，自己去發掘吧！",
   "dest": "build",
   "base": "/",
   "head": [
