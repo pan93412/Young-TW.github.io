@@ -2,7 +2,7 @@
 title: 建中社課 Git & Github-cli
 date: '2021-12-20 21:20:00'
 categories:
- - 活動
+ - activity
 tags:
  - 社團課
  - 建國中學

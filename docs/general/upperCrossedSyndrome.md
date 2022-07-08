@@ -15,7 +15,7 @@ tags:
 
 上交叉綜合症通常會伴隨駝背、圓肩、烏龜頸(頭部前移)等等，以下會推薦幾部影片是我看過比較喜歡的。  
 
-1. [弓背聳肩，體態猥瑣難看，2個動作睡前做，輕鬆解決圓肩駝背問題](https://youtu.be/-KMBzCYNp2Y)
-2. [這個習慣害你烏龜頸！脖子前傾該怎麼辦？](https://youtu.be/fJywDb-kxQ0)
-3. [解決圓肩的4個步驟](https://youtu.be/E4vidJNruVg)
+1. [弓背聳肩，體態猥瑣難看，2個動作睡前做，輕鬆解決圓肩駝背問題](https://youtu.be/-KMBzCYNp2Y)  
+2. [這個習慣害你烏龜頸！脖子前傾該怎麼辦？](https://youtu.be/fJywDb-kxQ0)  
+3. [解決圓肩的4個步驟](https://youtu.be/E4vidJNruVg)  
 :::

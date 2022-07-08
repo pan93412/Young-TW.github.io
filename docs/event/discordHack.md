@@ -2,7 +2,7 @@
 title: 我的 Discord 帳號被盜用了
 date: '2022-01-28 08:22:00'
 categories:
- - 意外
+ - accident
 tags:
  - Discord
  - Hack

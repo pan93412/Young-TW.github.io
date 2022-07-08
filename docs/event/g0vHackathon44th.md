@@ -2,9 +2,9 @@
 title: g0v 板橋油庫口黑客松
 date: '2021-12-12 01:20:00'
 categories:
- - 活動
+ - activity
 tags:
- - 黑客松
+ - hackathon
  - g0v
 ---
 

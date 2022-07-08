@@ -2,7 +2,7 @@
 title: 台南高工畢業旅行心得
 date: '2022-3-17 18:40:00'
 categories:
- - 活動
+ - activity
 tags:
  - 畢業旅行
 ---
